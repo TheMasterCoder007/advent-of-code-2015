@@ -1,0 +1,9 @@
+# VS Code
+./vscode/
+
+# Jetbrains CLion
+.idea/
+cmake-build-debug/
+
+# Build Folder
+build/
